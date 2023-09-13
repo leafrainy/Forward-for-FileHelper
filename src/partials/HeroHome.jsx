@@ -35,7 +35,7 @@ function HeroHome() {
               <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">一个 Chrome 浏览器插件，自动将 <span className="bg-clip-text text-primary">微信文件传输助手</span> 收到的消息，转发给自定义接口</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
-                  <a className="btn text-white bg-blue-500 transition duration-300 ease-in-out hover:bg-blue-600 w-full mb-4 sm:w-auto sm:mb-0" target="_blank" href="#">
+                  <a className="btn text-white bg-blue-500 transition duration-300 ease-in-out hover:bg-blue-600 w-full mb-4 sm:w-auto sm:mb-0" target="_blank" href="https://cdn.jsdelivr.net/gh/leafrainy/Forward-for-FileHelper/wxhelper.zip">
                     <img src={ChromeIcon} width="20" height="20" alt="Add to Chrome" />
                     <span className="ml-2 -mr-1">安装到Chrome</span>
                   </a>
